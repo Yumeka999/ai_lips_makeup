@@ -1,3 +1,12 @@
+# 这是什么程序？ What is this ?
+
+![](img/what_is_this.png)
+
+首先给一张俊美靓丽的人脸照，将这张照片作为输入用AI口红小工具美(P)化(S)打(修)扮(图)一番
+你就可以让照片中人脸得到两种不同口红，赤红鲜艳的釉面口红和皎明光泽的亮面口红
+
+Input a face image in the program, then you can new face image with Glazed lipstick or Bright lipstick.
+
 # 1 *中文版(简体)*
 ## 1.1 *运行环境*
 Python3.6
