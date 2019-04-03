@@ -1,0 +1,1300 @@
+step:0 batch-th:0 Loss value:18866.021
+step:0 batch-th:1 Loss value:17434.473
+step:0 batch-th:2 Loss value:18463.824
+step:0 batch-th:3 Loss value:19449.828
+step:0 batch-th:4 Loss value:17047.172
+step:0 batch-th:5 Loss value:17846.604
+step:0 batch-th:6 Loss value:17944.162
+step:0 batch-th:7 Loss value:19993.863
+step:0 batch-th:8 Loss value:23491.562
+step:0 batch-th:9 Loss value:14432.835
+2019-04-03 18:29:58
+0-th iteration, Time cost: 2
+
+step:1 batch-th:0 Loss value:18636.576
+step:1 batch-th:1 Loss value:17222.195
+step:1 batch-th:2 Loss value:18222.283
+step:1 batch-th:3 Loss value:19240.578
+step:1 batch-th:4 Loss value:16795.826
+step:1 batch-th:5 Loss value:17547.953
+step:1 batch-th:6 Loss value:17621.94
+step:1 batch-th:7 Loss value:19503.22
+step:1 batch-th:8 Loss value:22624.18
+step:1 batch-th:9 Loss value:13982.929
+2019-04-03 18:30:01
+1-th iteration, Time cost: 2
+
+step:2 batch-th:0 Loss value:17782.936
+step:2 batch-th:1 Loss value:16326.978
+step:2 batch-th:2 Loss value:17085.322
+step:2 batch-th:3 Loss value:18185.04
+step:2 batch-th:4 Loss value:15550.802
+step:2 batch-th:5 Loss value:16004.761
+step:2 batch-th:6 Loss value:15881.41
+step:2 batch-th:7 Loss value:17385.092
+step:2 batch-th:8 Loss value:20019.469
+step:2 batch-th:9 Loss value:12308.83
+2019-04-03 18:30:04
+2-th iteration, Time cost: 2
+
+step:3 batch-th:0 Loss value:15408.371
+step:3 batch-th:1 Loss value:14155.014
+step:3 batch-th:2 Loss value:14606.884
+step:3 batch-th:3 Loss value:15201.838
+step:3 batch-th:4 Loss value:12970.134
+step:3 batch-th:5 Loss value:13285.525
+step:3 batch-th:6 Loss value:13092.816
+step:3 batch-th:7 Loss value:14244.928
+step:3 batch-th:8 Loss value:16711.984
+step:3 batch-th:9 Loss value:9896.21
+2019-04-03 18:30:06
+3-th iteration, Time cost: 2
+
+step:4 batch-th:0 Loss value:12596.022
+step:4 batch-th:1 Loss value:11467.348
+step:4 batch-th:2 Loss value:11758.544
+step:4 batch-th:3 Loss value:11869.769
+step:4 batch-th:4 Loss value:10130.953
+step:4 batch-th:5 Loss value:10351.281
+step:4 batch-th:6 Loss value:10117.889
+step:4 batch-th:7 Loss value:10926.742
+step:4 batch-th:8 Loss value:13053.566
+step:4 batch-th:9 Loss value:7483.3623
+2019-04-03 18:30:08
+4-th iteration, Time cost: 2
+
+step:5 batch-th:0 Loss value:9645.115
+step:5 batch-th:1 Loss value:8730.18
+step:5 batch-th:2 Loss value:8898.603
+step:5 batch-th:3 Loss value:8785.208
+step:5 batch-th:4 Loss value:7494.472
+step:5 batch-th:5 Loss value:7646.148
+step:5 batch-th:6 Loss value:7425.365
+step:5 batch-th:7 Loss value:7951.217
+step:5 batch-th:8 Loss value:9691.886
+step:5 batch-th:9 Loss value:5367.9517
+2019-04-03 18:30:10
+5-th iteration, Time cost: 2
+
+step:6 batch-th:0 Loss value:6973.2627
+step:6 batch-th:1 Loss value:6246.937
+step:6 batch-th:2 Loss value:6277.2935
+step:6 batch-th:3 Loss value:5978.9634
+step:6 batch-th:4 Loss value:5054.827
+step:6 batch-th:5 Loss value:5099.132
+step:6 batch-th:6 Loss value:4840.296
+step:6 batch-th:7 Loss value:5094.577
+step:6 batch-th:8 Loss value:6142.4424
+step:6 batch-th:9 Loss value:3456.037
+2019-04-03 18:30:13
+6-th iteration, Time cost: 2
+
+step:7 batch-th:0 Loss value:4318.1836
+step:7 batch-th:1 Loss value:3895.2766
+step:7 batch-th:2 Loss value:3833.5847
+step:7 batch-th:3 Loss value:3682.5452
+step:7 batch-th:4 Loss value:3134.9568
+step:7 batch-th:5 Loss value:3143.5427
+step:7 batch-th:6 Loss value:2948.3599
+step:7 batch-th:7 Loss value:3156.3672
+step:7 batch-th:8 Loss value:3618.586
+step:7 batch-th:9 Loss value:2357.5527
+2019-04-03 18:30:15
+7-th iteration, Time cost: 2
+
+step:8 batch-th:0 Loss value:2716.8542
+step:8 batch-th:1 Loss value:2585.9202
+step:8 batch-th:2 Loss value:2547.8997
+step:8 batch-th:3 Loss value:2612.855
+step:8 batch-th:4 Loss value:2300.662
+step:8 batch-th:5 Loss value:2343.9697
+step:8 batch-th:6 Loss value:2202.4707
+step:8 batch-th:7 Loss value:2487.8142
+step:8 batch-th:8 Loss value:2658.2283
+step:8 batch-th:9 Loss value:2063.7473
+2019-04-03 18:30:17
+8-th iteration, Time cost: 2
+
+step:9 batch-th:0 Loss value:2245.6367
+step:9 batch-th:1 Loss value:2254.0183
+step:9 batch-th:2 Loss value:2254.8384
+step:9 batch-th:3 Loss value:2398.0686
+step:9 batch-th:4 Loss value:2175.4546
+step:9 batch-th:5 Loss value:2228.6052
+step:9 batch-th:6 Loss value:2090.4976
+step:9 batch-th:7 Loss value:2426.885
+step:9 batch-th:8 Loss value:2531.4653
+step:9 batch-th:9 Loss value:2005.9008
+2019-04-03 18:30:19
+9-th iteration, Time cost: 2
+
+step:10 batch-th:0 Loss value:2181.5164
+step:10 batch-th:1 Loss value:2192.0095
+step:10 batch-th:2 Loss value:2191.519
+step:10 batch-th:3 Loss value:2290.1482
+step:10 batch-th:4 Loss value:2090.8518
+step:10 batch-th:5 Loss value:2119.6765
+step:10 batch-th:6 Loss value:1974.7781
+step:10 batch-th:7 Loss value:2285.4795
+step:10 batch-th:8 Loss value:2412.025
+step:10 batch-th:9 Loss value:1843.1548
+2019-04-03 18:30:22
+10-th iteration, Time cost: 2
+
+step:11 batch-th:0 Loss value:2037.9836
+step:11 batch-th:1 Loss value:2030.4531
+step:11 batch-th:2 Loss value:2039.9033
+step:11 batch-th:3 Loss value:2135.4973
+step:11 batch-th:4 Loss value:1947.8828
+step:11 batch-th:5 Loss value:1968.8307
+step:11 batch-th:6 Loss value:1846.3965
+step:11 batch-th:7 Loss value:2123.4355
+step:11 batch-th:8 Loss value:2272.4795
+step:11 batch-th:9 Loss value:1696.1012
+2019-04-03 18:30:24
+11-th iteration, Time cost: 2
+
+step:12 batch-th:0 Loss value:1910.8726
+step:12 batch-th:1 Loss value:1886.937
+step:12 batch-th:2 Loss value:1918.8448
+step:12 batch-th:3 Loss value:2051.889
+step:12 batch-th:4 Loss value:1855.4015
+step:12 batch-th:5 Loss value:1869.7986
+step:12 batch-th:6 Loss value:1763.8431
+step:12 batch-th:7 Loss value:2019.977
+step:12 batch-th:8 Loss value:2171.9468
+step:12 batch-th:9 Loss value:1590.2555
+2019-04-03 18:30:26
+12-th iteration, Time cost: 2
+
+step:13 batch-th:0 Loss value:1817.3981
+step:13 batch-th:1 Loss value:1786.6725
+step:13 batch-th:2 Loss value:1826.1993
+step:13 batch-th:3 Loss value:1956.5646
+step:13 batch-th:4 Loss value:1770.9951
+step:13 batch-th:5 Loss value:1775.311
+step:13 batch-th:6 Loss value:1674.6709
+step:13 batch-th:7 Loss value:1922.069
+step:13 batch-th:8 Loss value:2073.8662
+step:13 batch-th:9 Loss value:1497.8202
+2019-04-03 18:30:28
+13-th iteration, Time cost: 2
+
+step:14 batch-th:0 Loss value:1727.492
+step:14 batch-th:1 Loss value:1698.2542
+step:14 batch-th:2 Loss value:1737.4521
+step:14 batch-th:3 Loss value:1859.2482
+step:14 batch-th:4 Loss value:1691.4435
+step:14 batch-th:5 Loss value:1687.886
+step:14 batch-th:6 Loss value:1592.0424
+step:14 batch-th:7 Loss value:1832.0555
+step:14 batch-th:8 Loss value:1966.8799
+step:14 batch-th:9 Loss value:1414.4694
+2019-04-03 18:30:31
+14-th iteration, Time cost: 2
+
+step:15 batch-th:0 Loss value:1635.733
+step:15 batch-th:1 Loss value:1606.1478
+step:15 batch-th:2 Loss value:1646.4663
+step:15 batch-th:3 Loss value:1779.888
+step:15 batch-th:4 Loss value:1617.0934
+step:15 batch-th:5 Loss value:1606.5452
+step:15 batch-th:6 Loss value:1516.9596
+step:15 batch-th:7 Loss value:1743.1248
+step:15 batch-th:8 Loss value:1858.8276
+step:15 batch-th:9 Loss value:1329.3884
+2019-04-03 18:30:33
+15-th iteration, Time cost: 2
+
+step:16 batch-th:0 Loss value:1542.8043
+step:16 batch-th:1 Loss value:1509.5406
+step:16 batch-th:2 Loss value:1552.0042
+step:16 batch-th:3 Loss value:1695.1102
+step:16 batch-th:4 Loss value:1533.2338
+step:16 batch-th:5 Loss value:1514.6407
+step:16 batch-th:6 Loss value:1430.2927
+step:16 batch-th:7 Loss value:1638.9287
+step:16 batch-th:8 Loss value:1748.449
+step:16 batch-th:9 Loss value:1234.284
+2019-04-03 18:30:35
+16-th iteration, Time cost: 2
+
+step:17 batch-th:0 Loss value:1438.1744
+step:17 batch-th:1 Loss value:1401.198
+step:17 batch-th:2 Loss value:1439.2152
+step:17 batch-th:3 Loss value:1578.0557
+step:17 batch-th:4 Loss value:1423.4161
+step:17 batch-th:5 Loss value:1395.3724
+step:17 batch-th:6 Loss value:1318.0503
+step:17 batch-th:7 Loss value:1500.6014
+step:17 batch-th:8 Loss value:1613.8027
+step:17 batch-th:9 Loss value:1131.0256
+2019-04-03 18:30:37
+17-th iteration, Time cost: 2
+
+step:18 batch-th:0 Loss value:1315.263
+step:18 batch-th:1 Loss value:1286.281
+step:18 batch-th:2 Loss value:1319.9775
+step:18 batch-th:3 Loss value:1466.1558
+step:18 batch-th:4 Loss value:1322.1227
+step:18 batch-th:5 Loss value:1288.1775
+step:18 batch-th:6 Loss value:1219.2682
+step:18 batch-th:7 Loss value:1384.2883
+step:18 batch-th:8 Loss value:1490.6084
+step:18 batch-th:9 Loss value:1041.8135
+2019-04-03 18:30:39
+18-th iteration, Time cost: 2
+
+step:19 batch-th:0 Loss value:1208.081
+step:19 batch-th:1 Loss value:1180.957
+step:19 batch-th:2 Loss value:1214.0085
+step:19 batch-th:3 Loss value:1371.4858
+step:19 batch-th:4 Loss value:1235.3071
+step:19 batch-th:5 Loss value:1195.7152
+step:19 batch-th:6 Loss value:1133.1919
+step:19 batch-th:7 Loss value:1284.1549
+step:19 batch-th:8 Loss value:1360.7343
+step:19 batch-th:9 Loss value:958.2779
+2019-04-03 18:30:42
+19-th iteration, Time cost: 2
+
+step:20 batch-th:0 Loss value:1104.2035
+step:20 batch-th:1 Loss value:1073.4624
+step:20 batch-th:2 Loss value:1112.9441
+step:20 batch-th:3 Loss value:1289.8235
+step:20 batch-th:4 Loss value:1153.7529
+step:20 batch-th:5 Loss value:1108.6077
+step:20 batch-th:6 Loss value:1051.9541
+step:20 batch-th:7 Loss value:1187.8804
+step:20 batch-th:8 Loss value:1261.5195
+step:20 batch-th:9 Loss value:885.5941
+2019-04-03 18:30:44
+20-th iteration, Time cost: 2
+
+step:21 batch-th:0 Loss value:1020.1612
+step:21 batch-th:1 Loss value:997.5772
+step:21 batch-th:2 Loss value:1029.9713
+step:21 batch-th:3 Loss value:1196.265
+step:21 batch-th:4 Loss value:1073.3695
+step:21 batch-th:5 Loss value:1021.8788
+step:21 batch-th:6 Loss value:972.95654
+step:21 batch-th:7 Loss value:1096.5507
+step:21 batch-th:8 Loss value:1170.9337
+step:21 batch-th:9 Loss value:823.58435
+2019-04-03 18:30:46
+21-th iteration, Time cost: 2
+
+step:22 batch-th:0 Loss value:939.773
+step:22 batch-th:1 Loss value:921.91046
+step:22 batch-th:2 Loss value:949.5887
+step:22 batch-th:3 Loss value:1122.8562
+step:22 batch-th:4 Loss value:1004.04285
+step:22 batch-th:5 Loss value:949.82654
+step:22 batch-th:6 Loss value:907.6521
+step:22 batch-th:7 Loss value:1016.4991
+step:22 batch-th:8 Loss value:1079.099
+step:22 batch-th:9 Loss value:768.5067
+2019-04-03 18:30:49
+22-th iteration, Time cost: 2
+
+step:23 batch-th:0 Loss value:863.5723
+step:23 batch-th:1 Loss value:850.86566
+step:23 batch-th:2 Loss value:875.9164
+step:23 batch-th:3 Loss value:1055.1171
+step:23 batch-th:4 Loss value:939.2352
+step:23 batch-th:5 Loss value:882.2382
+step:23 batch-th:6 Loss value:845.67413
+step:23 batch-th:7 Loss value:939.8368
+step:23 batch-th:8 Loss value:998.9931
+step:23 batch-th:9 Loss value:722.32574
+2019-04-03 18:30:51
+23-th iteration, Time cost: 2
+
+step:24 batch-th:0 Loss value:796.6279
+step:24 batch-th:1 Loss value:791.4763
+step:24 batch-th:2 Loss value:810.8441
+step:24 batch-th:3 Loss value:991.94934
+step:24 batch-th:4 Loss value:879.8321
+step:24 batch-th:5 Loss value:821.8886
+step:24 batch-th:6 Loss value:790.67944
+step:24 batch-th:7 Loss value:871.1151
+step:24 batch-th:8 Loss value:925.4389
+step:24 batch-th:9 Loss value:681.44147
+2019-04-03 18:30:53
+24-th iteration, Time cost: 2
+
+step:25 batch-th:0 Loss value:735.7459
+step:25 batch-th:1 Loss value:735.6414
+step:25 batch-th:2 Loss value:752.385
+step:25 batch-th:3 Loss value:937.1196
+step:25 batch-th:4 Loss value:826.69214
+step:25 batch-th:5 Loss value:769.25476
+step:25 batch-th:6 Loss value:742.1597
+step:25 batch-th:7 Loss value:809.0673
+step:25 batch-th:8 Loss value:860.95013
+step:25 batch-th:9 Loss value:646.68713
+2019-04-03 18:30:55
+25-th iteration, Time cost: 2
+
+step:26 batch-th:0 Loss value:682.72076
+step:26 batch-th:1 Loss value:688.7587
+step:26 batch-th:2 Loss value:702.3308
+step:26 batch-th:3 Loss value:887.57794
+step:26 batch-th:4 Loss value:778.9448
+step:26 batch-th:5 Loss value:722.85876
+step:26 batch-th:6 Loss value:699.504
+step:26 batch-th:7 Loss value:753.55817
+step:26 batch-th:8 Loss value:805.3099
+step:26 batch-th:9 Loss value:616.6439
+2019-04-03 18:30:58
+26-th iteration, Time cost: 2
+
+step:27 batch-th:0 Loss value:636.561
+step:27 batch-th:1 Loss value:647.4261
+step:27 batch-th:2 Loss value:659.10724
+step:27 batch-th:3 Loss value:844.70807
+step:27 batch-th:4 Loss value:736.90704
+step:27 batch-th:5 Loss value:683.6889
+step:27 batch-th:6 Loss value:663.0973
+step:27 batch-th:7 Loss value:704.7764
+step:27 batch-th:8 Loss value:757.1836
+step:27 batch-th:9 Loss value:590.93677
+2019-04-03 18:31:00
+27-th iteration, Time cost: 2
+
+step:28 batch-th:0 Loss value:596.335
+step:28 batch-th:1 Loss value:612.03534
+step:28 batch-th:2 Loss value:621.70496
+step:28 batch-th:3 Loss value:806.89056
+step:28 batch-th:4 Loss value:699.4029
+step:28 batch-th:5 Loss value:649.5821
+step:28 batch-th:6 Loss value:631.2774
+step:28 batch-th:7 Loss value:661.5538
+step:28 batch-th:8 Loss value:715.01874
+step:28 batch-th:9 Loss value:568.8124
+2019-04-03 18:31:02
+28-th iteration, Time cost: 2
+
+step:29 batch-th:0 Loss value:561.0205
+step:29 batch-th:1 Loss value:580.1996
+step:29 batch-th:2 Loss value:588.8352
+step:29 batch-th:3 Loss value:772.7454
+step:29 batch-th:4 Loss value:665.5518
+step:29 batch-th:5 Loss value:619.61456
+step:29 batch-th:6 Loss value:603.3911
+step:29 batch-th:7 Loss value:622.65295
+step:29 batch-th:8 Loss value:677.5359
+step:29 batch-th:9 Loss value:548.88336
+2019-04-03 18:31:04
+29-th iteration, Time cost: 2
+
+step:30 batch-th:0 Loss value:529.4984
+step:30 batch-th:1 Loss value:550.5967
+step:30 batch-th:2 Loss value:559.36945
+step:30 batch-th:3 Loss value:738.9282
+step:30 batch-th:4 Loss value:633.5871
+step:30 batch-th:5 Loss value:590.7141
+step:30 batch-th:6 Loss value:576.4437
+step:30 batch-th:7 Loss value:587.85394
+step:30 batch-th:8 Loss value:645.14056
+step:30 batch-th:9 Loss value:528.16034
+2019-04-03 18:31:06
+30-th iteration, Time cost: 2
+
+step:31 batch-th:0 Loss value:501.34323
+step:31 batch-th:1 Loss value:522.0563
+step:31 batch-th:2 Loss value:529.09644
+step:31 batch-th:3 Loss value:703.4979
+step:31 batch-th:4 Loss value:598.47437
+step:31 batch-th:5 Loss value:558.5982
+step:31 batch-th:6 Loss value:544.8426
+step:31 batch-th:7 Loss value:552.493
+step:31 batch-th:8 Loss value:606.54443
+step:31 batch-th:9 Loss value:498.51837
+2019-04-03 18:31:09
+31-th iteration, Time cost: 2
+
+step:32 batch-th:0 Loss value:466.61072
+step:32 batch-th:1 Loss value:483.2414
+step:32 batch-th:2 Loss value:491.0877
+step:32 batch-th:3 Loss value:660.2827
+step:32 batch-th:4 Loss value:554.3594
+step:32 batch-th:5 Loss value:523.74384
+step:32 batch-th:6 Loss value:511.9772
+step:32 batch-th:7 Loss value:509.21542
+step:32 batch-th:8 Loss value:557.4595
+step:32 batch-th:9 Loss value:480.7165
+2019-04-03 18:31:11
+32-th iteration, Time cost: 2
+
+step:33 batch-th:0 Loss value:432.18338
+step:33 batch-th:1 Loss value:455.75446
+step:33 batch-th:2 Loss value:467.16522
+step:33 batch-th:3 Loss value:621.34515
+step:33 batch-th:4 Loss value:520.14795
+step:33 batch-th:5 Loss value:503.1108
+step:33 batch-th:6 Loss value:492.21542
+step:33 batch-th:7 Loss value:478.32834
+step:33 batch-th:8 Loss value:526.8065
+step:33 batch-th:9 Loss value:467.20975
+2019-04-03 18:31:13
+33-th iteration, Time cost: 2
+
+step:34 batch-th:0 Loss value:412.34744
+step:34 batch-th:1 Loss value:441.65286
+step:34 batch-th:2 Loss value:448.51044
+step:34 batch-th:3 Loss value:594.32513
+step:34 batch-th:4 Loss value:497.70255
+step:34 batch-th:5 Loss value:478.55457
+step:34 batch-th:6 Loss value:473.27017
+step:34 batch-th:7 Loss value:456.24115
+step:34 batch-th:8 Loss value:504.32025
+step:34 batch-th:9 Loss value:450.6661
+2019-04-03 18:31:15
+34-th iteration, Time cost: 2
+
+step:35 batch-th:0 Loss value:391.7599
+step:35 batch-th:1 Loss value:416.37982
+step:35 batch-th:2 Loss value:427.37018
+step:35 batch-th:3 Loss value:574.2464
+step:35 batch-th:4 Loss value:479.4173
+step:35 batch-th:5 Loss value:459.53357
+step:35 batch-th:6 Loss value:455.0308
+step:35 batch-th:7 Loss value:437.69904
+step:35 batch-th:8 Loss value:484.07578
+step:35 batch-th:9 Loss value:439.77173
+2019-04-03 18:31:18
+35-th iteration, Time cost: 2
+
+step:36 batch-th:0 Loss value:377.78604
+step:36 batch-th:1 Loss value:406.2536
+step:36 batch-th:2 Loss value:412.65958
+step:36 batch-th:3 Loss value:554.23694
+step:36 batch-th:4 Loss value:463.5878
+step:36 batch-th:5 Loss value:443.65897
+step:36 batch-th:6 Loss value:441.2321
+step:36 batch-th:7 Loss value:421.1309
+step:36 batch-th:8 Loss value:466.39877
+step:36 batch-th:9 Loss value:426.67654
+2019-04-03 18:31:20
+36-th iteration, Time cost: 2
+
+step:37 batch-th:0 Loss value:363.11267
+step:37 batch-th:1 Loss value:391.5004
+step:37 batch-th:2 Loss value:397.94577
+step:37 batch-th:3 Loss value:536.54083
+step:37 batch-th:4 Loss value:449.08276
+step:37 batch-th:5 Loss value:428.15536
+step:37 batch-th:6 Loss value:427.0342
+step:37 batch-th:7 Loss value:404.89255
+step:37 batch-th:8 Loss value:449.21643
+step:37 batch-th:9 Loss value:415.8753
+2019-04-03 18:31:22
+37-th iteration, Time cost: 2
+
+step:38 batch-th:0 Loss value:350.65262
+step:38 batch-th:1 Loss value:379.41846
+step:38 batch-th:2 Loss value:384.96808
+step:38 batch-th:3 Loss value:520.59985
+step:38 batch-th:4 Loss value:435.97607
+step:38 batch-th:5 Loss value:415.1462
+step:38 batch-th:6 Loss value:414.83902
+step:38 batch-th:7 Loss value:389.92245
+step:38 batch-th:8 Loss value:433.5166
+step:38 batch-th:9 Loss value:405.10675
+2019-04-03 18:31:24
+38-th iteration, Time cost: 2
+
+step:39 batch-th:0 Loss value:338.20193
+step:39 batch-th:1 Loss value:367.87787
+step:39 batch-th:2 Loss value:372.37216
+step:39 batch-th:3 Loss value:504.71954
+step:39 batch-th:4 Loss value:423.427
+step:39 batch-th:5 Loss value:401.92154
+step:39 batch-th:6 Loss value:402.53693
+step:39 batch-th:7 Loss value:375.8238
+step:39 batch-th:8 Loss value:418.82898
+step:39 batch-th:9 Loss value:395.15332
+2019-04-03 18:31:26
+39-th iteration, Time cost: 2
+
+step:40 batch-th:0 Loss value:326.91458
+step:40 batch-th:1 Loss value:357.14206
+step:40 batch-th:2 Loss value:360.68643
+step:40 batch-th:3 Loss value:491.213
+step:40 batch-th:4 Loss value:412.4102
+step:40 batch-th:5 Loss value:390.33243
+step:40 batch-th:6 Loss value:391.8619
+step:40 batch-th:7 Loss value:363.58762
+step:40 batch-th:8 Loss value:405.9526
+step:40 batch-th:9 Loss value:386.0608
+2019-04-03 18:31:29
+40-th iteration, Time cost: 2
+
+step:41 batch-th:0 Loss value:317.09332
+step:41 batch-th:1 Loss value:348.07806
+step:41 batch-th:2 Loss value:350.41904
+step:41 batch-th:3 Loss value:478.57965
+step:41 batch-th:4 Loss value:402.73575
+step:41 batch-th:5 Loss value:379.60852
+step:41 batch-th:6 Loss value:381.9329
+step:41 batch-th:7 Loss value:352.61545
+step:41 batch-th:8 Loss value:394.22452
+step:41 batch-th:9 Loss value:377.6247
+2019-04-03 18:31:31
+41-th iteration, Time cost: 2
+
+step:42 batch-th:0 Loss value:308.20593
+step:42 batch-th:1 Loss value:339.87405
+step:42 batch-th:2 Loss value:341.22388
+step:42 batch-th:3 Loss value:466.59192
+step:42 batch-th:4 Loss value:393.7052
+step:42 batch-th:5 Loss value:369.41354
+step:42 batch-th:6 Loss value:372.58652
+step:42 batch-th:7 Loss value:342.1798
+step:42 batch-th:8 Loss value:382.8607
+step:42 batch-th:9 Loss value:370.24246
+2019-04-03 18:31:33
+42-th iteration, Time cost: 2
+
+step:43 batch-th:0 Loss value:300.35565
+step:43 batch-th:1 Loss value:332.88147
+step:43 batch-th:2 Loss value:332.6074
+step:43 batch-th:3 Loss value:456.02255
+step:43 batch-th:4 Loss value:385.56735
+step:43 batch-th:5 Loss value:360.3748
+step:43 batch-th:6 Loss value:365.0088
+step:43 batch-th:7 Loss value:333.9061
+step:43 batch-th:8 Loss value:373.87827
+step:43 batch-th:9 Loss value:362.25092
+2019-04-03 18:31:35
+43-th iteration, Time cost: 2
+
+step:44 batch-th:0 Loss value:293.2824
+step:44 batch-th:1 Loss value:325.8711
+step:44 batch-th:2 Loss value:324.53677
+step:44 batch-th:3 Loss value:446.5318
+step:44 batch-th:4 Loss value:378.5298
+step:44 batch-th:5 Loss value:351.4581
+step:44 batch-th:6 Loss value:356.8544
+step:44 batch-th:7 Loss value:326.02594
+step:44 batch-th:8 Loss value:364.92255
+step:44 batch-th:9 Loss value:355.7096
+2019-04-03 18:31:37
+44-th iteration, Time cost: 2
+
+step:45 batch-th:0 Loss value:286.95636
+step:45 batch-th:1 Loss value:319.9362
+step:45 batch-th:2 Loss value:317.20734
+step:45 batch-th:3 Loss value:438.26248
+step:45 batch-th:4 Loss value:372.0621
+step:45 batch-th:5 Loss value:344.26575
+step:45 batch-th:6 Loss value:350.3767
+step:45 batch-th:7 Loss value:319.25024
+step:45 batch-th:8 Loss value:357.20547
+step:45 batch-th:9 Loss value:349.45288
+2019-04-03 18:31:39
+45-th iteration, Time cost: 2
+
+step:46 batch-th:0 Loss value:281.32068
+step:46 batch-th:1 Loss value:315.17505
+step:46 batch-th:2 Loss value:311.1746
+step:46 batch-th:3 Loss value:430.2825
+step:46 batch-th:4 Loss value:366.19864
+step:46 batch-th:5 Loss value:337.29495
+step:46 batch-th:6 Loss value:344.09863
+step:46 batch-th:7 Loss value:312.82867
+step:46 batch-th:8 Loss value:350.17773
+step:46 batch-th:9 Loss value:343.77002
+2019-04-03 18:31:42
+46-th iteration, Time cost: 2
+
+step:47 batch-th:0 Loss value:276.0621
+step:47 batch-th:1 Loss value:309.72525
+step:47 batch-th:2 Loss value:305.39304
+step:47 batch-th:3 Loss value:423.50488
+step:47 batch-th:4 Loss value:360.88666
+step:47 batch-th:5 Loss value:331.34662
+step:47 batch-th:6 Loss value:338.5813
+step:47 batch-th:7 Loss value:306.99844
+step:47 batch-th:8 Loss value:343.68475
+step:47 batch-th:9 Loss value:338.96063
+2019-04-03 18:31:44
+47-th iteration, Time cost: 2
+
+step:48 batch-th:0 Loss value:271.38995
+step:48 batch-th:1 Loss value:305.4572
+step:48 batch-th:2 Loss value:300.3286
+step:48 batch-th:3 Loss value:417.1707
+step:48 batch-th:4 Loss value:355.94525
+step:48 batch-th:5 Loss value:325.82608
+step:48 batch-th:6 Loss value:333.5883
+step:48 batch-th:7 Loss value:301.75955
+step:48 batch-th:8 Loss value:337.77542
+step:48 batch-th:9 Loss value:334.173
+2019-04-03 18:31:46
+48-th iteration, Time cost: 2
+
+step:49 batch-th:0 Loss value:266.88162
+step:49 batch-th:1 Loss value:300.8285
+step:49 batch-th:2 Loss value:295.4497
+step:49 batch-th:3 Loss value:411.46863
+step:49 batch-th:4 Loss value:351.00366
+step:49 batch-th:5 Loss value:320.56607
+step:49 batch-th:6 Loss value:328.80045
+step:49 batch-th:7 Loss value:296.68948
+step:49 batch-th:8 Loss value:331.92645
+step:49 batch-th:9 Loss value:329.69037
+2019-04-03 18:31:48
+49-th iteration, Time cost: 2
+
+step:50 batch-th:0 Loss value:262.49496
+step:50 batch-th:1 Loss value:295.76138
+step:50 batch-th:2 Loss value:290.7644
+step:50 batch-th:3 Loss value:406.1104
+step:50 batch-th:4 Loss value:343.36993
+step:50 batch-th:5 Loss value:315.8645
+step:50 batch-th:6 Loss value:324.56512
+step:50 batch-th:7 Loss value:291.06396
+step:50 batch-th:8 Loss value:325.18527
+step:50 batch-th:9 Loss value:325.30518
+2019-04-03 18:31:50
+50-th iteration, Time cost: 2
+
+step:51 batch-th:0 Loss value:256.1698
+step:51 batch-th:1 Loss value:285.9502
+step:51 batch-th:2 Loss value:284.7222
+step:51 batch-th:3 Loss value:401.0349
+step:51 batch-th:4 Loss value:333.17755
+step:51 batch-th:5 Loss value:313.50613
+step:51 batch-th:6 Loss value:321.49524
+step:51 batch-th:7 Loss value:283.7557
+step:51 batch-th:8 Loss value:316.77795
+step:51 batch-th:9 Loss value:324.4786
+2019-04-03 18:31:53
+51-th iteration, Time cost: 2
+
+step:52 batch-th:0 Loss value:253.88353
+step:52 batch-th:1 Loss value:287.9629
+step:52 batch-th:2 Loss value:282.5185
+step:52 batch-th:3 Loss value:394.0305
+step:52 batch-th:4 Loss value:328.99017
+step:52 batch-th:5 Loss value:308.14868
+step:52 batch-th:6 Loss value:317.3675
+step:52 batch-th:7 Loss value:281.8024
+step:52 batch-th:8 Loss value:314.07306
+step:52 batch-th:9 Loss value:317.3225
+2019-04-03 18:31:55
+52-th iteration, Time cost: 2
+
+step:53 batch-th:0 Loss value:249.11803
+step:53 batch-th:1 Loss value:280.43924
+step:53 batch-th:2 Loss value:277.47418
+step:53 batch-th:3 Loss value:390.12192
+step:53 batch-th:4 Loss value:325.3406
+step:53 batch-th:5 Loss value:302.49356
+step:53 batch-th:6 Loss value:311.40027
+step:53 batch-th:7 Loss value:277.44232
+step:53 batch-th:8 Loss value:308.92795
+step:53 batch-th:9 Loss value:315.1853
+2019-04-03 18:31:57
+53-th iteration, Time cost: 2
+
+step:54 batch-th:0 Loss value:246.12721
+step:54 batch-th:1 Loss value:277.62103
+step:54 batch-th:2 Loss value:273.32214
+step:54 batch-th:3 Loss value:386.13895
+step:54 batch-th:4 Loss value:321.615
+step:54 batch-th:5 Loss value:298.81665
+step:54 batch-th:6 Loss value:307.82382
+step:54 batch-th:7 Loss value:274.40677
+step:54 batch-th:8 Loss value:305.37628
+step:54 batch-th:9 Loss value:311.67764
+2019-04-03 18:31:59
+54-th iteration, Time cost: 2
+
+step:55 batch-th:0 Loss value:243.08766
+step:55 batch-th:1 Loss value:275.90244
+step:55 batch-th:2 Loss value:270.26178
+step:55 batch-th:3 Loss value:381.36154
+step:55 batch-th:4 Loss value:318.19635
+step:55 batch-th:5 Loss value:294.97437
+step:55 batch-th:6 Loss value:304.54205
+step:55 batch-th:7 Loss value:271.04095
+step:55 batch-th:8 Loss value:302.15573
+step:55 batch-th:9 Loss value:308.40063
+2019-04-03 18:32:01
+55-th iteration, Time cost: 2
+
+step:56 batch-th:0 Loss value:239.89032
+step:56 batch-th:1 Loss value:272.7896
+step:56 batch-th:2 Loss value:267.39093
+step:56 batch-th:3 Loss value:377.77838
+step:56 batch-th:4 Loss value:314.91742
+step:56 batch-th:5 Loss value:291.01376
+step:56 batch-th:6 Loss value:300.90347
+step:56 batch-th:7 Loss value:267.91534
+step:56 batch-th:8 Loss value:299.0036
+step:56 batch-th:9 Loss value:305.29517
+2019-04-03 18:32:04
+56-th iteration, Time cost: 2
+
+step:57 batch-th:0 Loss value:237.07907
+step:57 batch-th:1 Loss value:269.6271
+step:57 batch-th:2 Loss value:264.4746
+step:57 batch-th:3 Loss value:374.85983
+step:57 batch-th:4 Loss value:312.0196
+step:57 batch-th:5 Loss value:287.98947
+step:57 batch-th:6 Loss value:298.05307
+step:57 batch-th:7 Loss value:265.21384
+step:57 batch-th:8 Loss value:296.0667
+step:57 batch-th:9 Loss value:303.0788
+2019-04-03 18:32:06
+57-th iteration, Time cost: 2
+
+step:58 batch-th:0 Loss value:234.64297
+step:58 batch-th:1 Loss value:267.51068
+step:58 batch-th:2 Loss value:262.01447
+step:58 batch-th:3 Loss value:371.9404
+step:58 batch-th:4 Loss value:309.27692
+step:58 batch-th:5 Loss value:285.13605
+step:58 batch-th:6 Loss value:295.43607
+step:58 batch-th:7 Loss value:262.66312
+step:58 batch-th:8 Loss value:293.28198
+step:58 batch-th:9 Loss value:300.91476
+2019-04-03 18:32:08
+58-th iteration, Time cost: 2
+
+step:59 batch-th:0 Loss value:232.3048
+step:59 batch-th:1 Loss value:265.1364
+step:59 batch-th:2 Loss value:259.61258
+step:59 batch-th:3 Loss value:369.28925
+step:59 batch-th:4 Loss value:306.6657
+step:59 batch-th:5 Loss value:282.54938
+step:59 batch-th:6 Loss value:292.9969
+step:59 batch-th:7 Loss value:260.247
+step:59 batch-th:8 Loss value:290.62415
+step:59 batch-th:9 Loss value:299.0017
+2019-04-03 18:32:10
+59-th iteration, Time cost: 2
+
+step:60 batch-th:0 Loss value:230.17369
+step:60 batch-th:1 Loss value:263.17694
+step:60 batch-th:2 Loss value:257.44583
+step:60 batch-th:3 Loss value:366.77844
+step:60 batch-th:4 Loss value:304.165
+step:60 batch-th:5 Loss value:280.14987
+step:60 batch-th:6 Loss value:290.80045
+step:60 batch-th:7 Loss value:257.99377
+step:60 batch-th:8 Loss value:288.17792
+step:60 batch-th:9 Loss value:297.16425
+2019-04-03 18:32:12
+60-th iteration, Time cost: 2
+
+step:61 batch-th:0 Loss value:228.1365
+step:61 batch-th:1 Loss value:261.21967
+step:61 batch-th:2 Loss value:255.38809
+step:61 batch-th:3 Loss value:364.4275
+step:61 batch-th:4 Loss value:301.81808
+step:61 batch-th:5 Loss value:277.84378
+step:61 batch-th:6 Loss value:288.64706
+step:61 batch-th:7 Loss value:255.85309
+step:61 batch-th:8 Loss value:285.88318
+step:61 batch-th:9 Loss value:295.4576
+2019-04-03 18:32:15
+61-th iteration, Time cost: 2
+
+step:62 batch-th:0 Loss value:226.23914
+step:62 batch-th:1 Loss value:259.36902
+step:62 batch-th:2 Loss value:253.42584
+step:62 batch-th:3 Loss value:362.25107
+step:62 batch-th:4 Loss value:299.59955
+step:62 batch-th:5 Loss value:275.734
+step:62 batch-th:6 Loss value:286.68317
+step:62 batch-th:7 Loss value:253.8444
+step:62 batch-th:8 Loss value:283.6969
+step:62 batch-th:9 Loss value:293.87265
+2019-04-03 18:32:17
+62-th iteration, Time cost: 2
+
+step:63 batch-th:0 Loss value:224.46109
+step:63 batch-th:1 Loss value:257.70352
+step:63 batch-th:2 Loss value:251.60782
+step:63 batch-th:3 Loss value:360.17322
+step:63 batch-th:4 Loss value:297.479
+step:63 batch-th:5 Loss value:273.73618
+step:63 batch-th:6 Loss value:284.83258
+step:63 batch-th:7 Loss value:251.95364
+step:63 batch-th:8 Loss value:281.63785
+step:63 batch-th:9 Loss value:292.33676
+2019-04-03 18:32:19
+63-th iteration, Time cost: 2
+
+step:64 batch-th:0 Loss value:222.7689
+step:64 batch-th:1 Loss value:256.07217
+step:64 batch-th:2 Loss value:249.88747
+step:64 batch-th:3 Loss value:358.23105
+step:64 batch-th:4 Loss value:295.4631
+step:64 batch-th:5 Loss value:271.85614
+step:64 batch-th:6 Loss value:283.0595
+step:64 batch-th:7 Loss value:250.16272
+step:64 batch-th:8 Loss value:279.69937
+step:64 batch-th:9 Loss value:290.87997
+2019-04-03 18:32:21
+64-th iteration, Time cost: 2
+
+step:65 batch-th:0 Loss value:221.16328
+step:65 batch-th:1 Loss value:254.52774
+step:65 batch-th:2 Loss value:248.25986
+step:65 batch-th:3 Loss value:356.41028
+step:65 batch-th:4 Loss value:293.5398
+step:65 batch-th:5 Loss value:270.0832
+step:65 batch-th:6 Loss value:281.3782
+step:65 batch-th:7 Loss value:248.47539
+step:65 batch-th:8 Loss value:277.8717
+step:65 batch-th:9 Loss value:289.4817
+2019-04-03 18:32:23
+65-th iteration, Time cost: 2
+
+step:66 batch-th:0 Loss value:219.63199
+step:66 batch-th:1 Loss value:253.05478
+step:66 batch-th:2 Loss value:246.71114
+step:66 batch-th:3 Loss value:354.69495
+step:66 batch-th:4 Loss value:291.70728
+step:66 batch-th:5 Loss value:268.39178
+step:66 batch-th:6 Loss value:279.77585
+step:66 batch-th:7 Loss value:246.88632
+step:66 batch-th:8 Loss value:276.12762
+step:66 batch-th:9 Loss value:288.14374
+2019-04-03 18:32:26
+66-th iteration, Time cost: 2
+
+step:67 batch-th:0 Loss value:218.1742
+step:67 batch-th:1 Loss value:251.64568
+step:67 batch-th:2 Loss value:245.23236
+step:67 batch-th:3 Loss value:353.07626
+step:67 batch-th:4 Loss value:289.9556
+step:67 batch-th:5 Loss value:266.78
+step:67 batch-th:6 Loss value:278.25516
+step:67 batch-th:7 Loss value:245.38805
+step:67 batch-th:8 Loss value:274.4459
+step:67 batch-th:9 Loss value:286.8632
+2019-04-03 18:32:28
+67-th iteration, Time cost: 2
+
+step:68 batch-th:0 Loss value:216.78746
+step:68 batch-th:1 Loss value:250.3054
+step:68 batch-th:2 Loss value:243.82672
+step:68 batch-th:3 Loss value:351.53848
+step:68 batch-th:4 Loss value:288.277
+step:68 batch-th:5 Loss value:265.23538
+step:68 batch-th:6 Loss value:276.80493
+step:68 batch-th:7 Loss value:243.97375
+step:68 batch-th:8 Loss value:272.8293
+step:68 batch-th:9 Loss value:285.631
+2019-04-03 18:32:30
+68-th iteration, Time cost: 2
+
+step:69 batch-th:0 Loss value:215.4639
+step:69 batch-th:1 Loss value:249.02419
+step:69 batch-th:2 Loss value:242.48369
+step:69 batch-th:3 Loss value:350.08002
+step:69 batch-th:4 Loss value:286.6646
+step:69 batch-th:5 Loss value:263.74774
+step:69 batch-th:6 Loss value:275.414
+step:69 batch-th:7 Loss value:242.63509
+step:69 batch-th:8 Loss value:271.2743
+step:69 batch-th:9 Loss value:284.453
+2019-04-03 18:32:32
+69-th iteration, Time cost: 2
+
+step:70 batch-th:0 Loss value:214.19131
+step:70 batch-th:1 Loss value:247.80092
+step:70 batch-th:2 Loss value:241.19408
+step:70 batch-th:3 Loss value:348.69308
+step:70 batch-th:4 Loss value:285.09598
+step:70 batch-th:5 Loss value:262.30997
+step:70 batch-th:6 Loss value:274.06174
+step:70 batch-th:7 Loss value:241.35973
+step:70 batch-th:8 Loss value:269.7512
+step:70 batch-th:9 Loss value:283.32764
+2019-04-03 18:32:34
+70-th iteration, Time cost: 2
+
+step:71 batch-th:0 Loss value:212.94682
+step:71 batch-th:1 Loss value:246.62614
+step:71 batch-th:2 Loss value:239.9377
+step:71 batch-th:3 Loss value:347.3528
+step:71 batch-th:4 Loss value:283.5086
+step:71 batch-th:5 Loss value:260.85242
+step:71 batch-th:6 Loss value:272.6825
+step:71 batch-th:7 Loss value:240.1292
+step:71 batch-th:8 Loss value:268.22372
+step:71 batch-th:9 Loss value:282.3084
+2019-04-03 18:32:37
+71-th iteration, Time cost: 2
+
+step:72 batch-th:0 Loss value:211.6793
+step:72 batch-th:1 Loss value:245.50137
+step:72 batch-th:2 Loss value:238.63506
+step:72 batch-th:3 Loss value:345.99664
+step:72 batch-th:4 Loss value:281.79175
+step:72 batch-th:5 Loss value:259.13187
+step:72 batch-th:6 Loss value:271.14554
+step:72 batch-th:7 Loss value:238.765
+step:72 batch-th:8 Loss value:266.73764
+step:72 batch-th:9 Loss value:281.35715
+2019-04-03 18:32:39
+72-th iteration, Time cost: 2
+
+step:73 batch-th:0 Loss value:210.36522
+step:73 batch-th:1 Loss value:244.35684
+step:73 batch-th:2 Loss value:236.94446
+step:73 batch-th:3 Loss value:344.6936
+step:73 batch-th:4 Loss value:280.136
+step:73 batch-th:5 Loss value:256.84344
+step:73 batch-th:6 Loss value:269.59012
+step:73 batch-th:7 Loss value:237.97849
+step:73 batch-th:8 Loss value:264.82083
+step:73 batch-th:9 Loss value:279.8837
+2019-04-03 18:32:41
+73-th iteration, Time cost: 2
+
+step:74 batch-th:0 Loss value:209.58116
+step:74 batch-th:1 Loss value:242.50182
+step:74 batch-th:2 Loss value:234.88518
+step:74 batch-th:3 Loss value:342.90326
+step:74 batch-th:4 Loss value:278.47366
+step:74 batch-th:5 Loss value:253.84538
+step:74 batch-th:6 Loss value:267.4853
+step:74 batch-th:7 Loss value:237.81471
+step:74 batch-th:8 Loss value:263.46786
+step:74 batch-th:9 Loss value:278.56635
+2019-04-03 18:32:43
+74-th iteration, Time cost: 2
+
+step:75 batch-th:0 Loss value:208.9574
+step:75 batch-th:1 Loss value:241.0571
+step:75 batch-th:2 Loss value:233.23085
+step:75 batch-th:3 Loss value:341.65094
+step:75 batch-th:4 Loss value:276.80328
+step:75 batch-th:5 Loss value:252.55078
+step:75 batch-th:6 Loss value:266.5709
+step:75 batch-th:7 Loss value:236.29457
+step:75 batch-th:8 Loss value:261.8124
+step:75 batch-th:9 Loss value:278.40814
+2019-04-03 18:32:45
+75-th iteration, Time cost: 2
+
+step:76 batch-th:0 Loss value:207.66881
+step:76 batch-th:1 Loss value:240.79396
+step:76 batch-th:2 Loss value:232.35364
+step:76 batch-th:3 Loss value:339.86816
+step:76 batch-th:4 Loss value:275.04062
+step:76 batch-th:5 Loss value:251.26117
+step:76 batch-th:6 Loss value:265.64066
+step:76 batch-th:7 Loss value:234.82039
+step:76 batch-th:8 Loss value:260.20734
+step:76 batch-th:9 Loss value:277.30707
+2019-04-03 18:32:48
+76-th iteration, Time cost: 2
+
+step:77 batch-th:0 Loss value:206.43773
+step:77 batch-th:1 Loss value:239.38164
+step:77 batch-th:2 Loss value:231.16655
+step:77 batch-th:3 Loss value:338.35812
+step:77 batch-th:4 Loss value:273.27948
+step:77 batch-th:5 Loss value:249.7656
+step:77 batch-th:6 Loss value:264.39746
+step:77 batch-th:7 Loss value:233.53725
+step:77 batch-th:8 Loss value:258.57996
+step:77 batch-th:9 Loss value:276.5507
+2019-04-03 18:32:50
+77-th iteration, Time cost: 2
+
+step:78 batch-th:0 Loss value:205.55127
+step:78 batch-th:1 Loss value:238.36311
+step:78 batch-th:2 Loss value:230.13367
+step:78 batch-th:3 Loss value:337.0266
+step:78 batch-th:4 Loss value:271.68945
+step:78 batch-th:5 Loss value:248.4863
+step:78 batch-th:6 Loss value:263.3288
+step:78 batch-th:7 Loss value:232.50981
+step:78 batch-th:8 Loss value:257.33783
+step:78 batch-th:9 Loss value:275.74814
+2019-04-03 18:32:52
+78-th iteration, Time cost: 2
+
+step:79 batch-th:0 Loss value:204.70187
+step:79 batch-th:1 Loss value:237.33142
+step:79 batch-th:2 Loss value:229.12976
+step:79 batch-th:3 Loss value:335.83673
+step:79 batch-th:4 Loss value:270.20142
+step:79 batch-th:5 Loss value:247.30162
+step:79 batch-th:6 Loss value:262.31174
+step:79 batch-th:7 Loss value:231.42218
+step:79 batch-th:8 Loss value:256.11005
+step:79 batch-th:9 Loss value:275.1152
+2019-04-03 18:32:54
+79-th iteration, Time cost: 2
+
+step:80 batch-th:0 Loss value:203.87227
+step:80 batch-th:1 Loss value:236.3164
+step:80 batch-th:2 Loss value:228.10626
+step:80 batch-th:3 Loss value:334.64935
+step:80 batch-th:4 Loss value:268.72043
+step:80 batch-th:5 Loss value:246.22614
+step:80 batch-th:6 Loss value:261.4107
+step:80 batch-th:7 Loss value:230.35988
+step:80 batch-th:8 Loss value:254.86728
+step:80 batch-th:9 Loss value:274.44043
+2019-04-03 18:32:56
+80-th iteration, Time cost: 2
+
+step:81 batch-th:0 Loss value:203.06537
+step:81 batch-th:1 Loss value:235.30347
+step:81 batch-th:2 Loss value:227.1084
+step:81 batch-th:3 Loss value:333.27365
+step:81 batch-th:4 Loss value:267.0903
+step:81 batch-th:5 Loss value:245.01364
+step:81 batch-th:6 Loss value:260.35886
+step:81 batch-th:7 Loss value:229.34055
+step:81 batch-th:8 Loss value:253.65556
+step:81 batch-th:9 Loss value:273.66577
+2019-04-03 18:32:59
+81-th iteration, Time cost: 2
+
+step:82 batch-th:0 Loss value:202.20404
+step:82 batch-th:1 Loss value:234.06418
+step:82 batch-th:2 Loss value:225.96774
+step:82 batch-th:3 Loss value:331.73132
+step:82 batch-th:4 Loss value:265.36224
+step:82 batch-th:5 Loss value:243.63391
+step:82 batch-th:6 Loss value:259.01434
+step:82 batch-th:7 Loss value:228.39665
+step:82 batch-th:8 Loss value:252.52008
+step:82 batch-th:9 Loss value:272.90115
+2019-04-03 18:33:01
+82-th iteration, Time cost: 2
+
+step:83 batch-th:0 Loss value:201.34833
+step:83 batch-th:1 Loss value:233.00621
+step:83 batch-th:2 Loss value:224.9137
+step:83 batch-th:3 Loss value:330.21753
+step:83 batch-th:4 Loss value:263.8077
+step:83 batch-th:5 Loss value:242.44463
+step:83 batch-th:6 Loss value:257.8555
+step:83 batch-th:7 Loss value:227.40636
+step:83 batch-th:8 Loss value:251.3233
+step:83 batch-th:9 Loss value:272.5178
+2019-04-03 18:33:03
+83-th iteration, Time cost: 2
+
+step:84 batch-th:0 Loss value:200.44516
+step:84 batch-th:1 Loss value:232.09657
+step:84 batch-th:2 Loss value:224.03476
+step:84 batch-th:3 Loss value:328.88303
+step:84 batch-th:4 Loss value:262.34946
+step:84 batch-th:5 Loss value:241.46887
+step:84 batch-th:6 Loss value:256.93823
+step:84 batch-th:7 Loss value:226.37404
+step:84 batch-th:8 Loss value:250.02838
+step:84 batch-th:9 Loss value:272.1443
+2019-04-03 18:33:05
+84-th iteration, Time cost: 2
+
+step:85 batch-th:0 Loss value:199.58267
+step:85 batch-th:1 Loss value:231.21683
+step:85 batch-th:2 Loss value:223.20871
+step:85 batch-th:3 Loss value:327.68417
+step:85 batch-th:4 Loss value:260.9663
+step:85 batch-th:5 Loss value:240.56503
+step:85 batch-th:6 Loss value:256.13675
+step:85 batch-th:7 Loss value:225.44183
+step:85 batch-th:8 Loss value:248.80678
+step:85 batch-th:9 Loss value:271.634
+2019-04-03 18:33:07
+85-th iteration, Time cost: 2
+
+step:86 batch-th:0 Loss value:198.80571
+step:86 batch-th:1 Loss value:230.34102
+step:86 batch-th:2 Loss value:222.39246
+step:86 batch-th:3 Loss value:326.5851
+step:86 batch-th:4 Loss value:259.64526
+step:86 batch-th:5 Loss value:239.62943
+step:86 batch-th:6 Loss value:255.32875
+step:86 batch-th:7 Loss value:224.61044
+step:86 batch-th:8 Loss value:247.72627
+step:86 batch-th:9 Loss value:271.02777
+2019-04-03 18:33:10
+86-th iteration, Time cost: 2
+
+step:87 batch-th:0 Loss value:198.11732
+step:87 batch-th:1 Loss value:229.46524
+step:87 batch-th:2 Loss value:221.61292
+step:87 batch-th:3 Loss value:325.6067
+step:87 batch-th:4 Loss value:258.42123
+step:87 batch-th:5 Loss value:238.7589
+step:87 batch-th:6 Loss value:254.5559
+step:87 batch-th:7 Loss value:223.8343
+step:87 batch-th:8 Loss value:246.75648
+step:87 batch-th:9 Loss value:270.44772
+2019-04-03 18:33:12
+87-th iteration, Time cost: 2
+
+step:88 batch-th:0 Loss value:197.48843
+step:88 batch-th:1 Loss value:228.6678
+step:88 batch-th:2 Loss value:220.90826
+step:88 batch-th:3 Loss value:324.67566
+step:88 batch-th:4 Loss value:257.26138
+step:88 batch-th:5 Loss value:237.9861
+step:88 batch-th:6 Loss value:253.86006
+step:88 batch-th:7 Loss value:223.07706
+step:88 batch-th:8 Loss value:245.83997
+step:88 batch-th:9 Loss value:269.8837
+2019-04-03 18:33:14
+88-th iteration, Time cost: 2
+
+step:89 batch-th:0 Loss value:196.883
+step:89 batch-th:1 Loss value:227.9176
+step:89 batch-th:2 Loss value:220.2576
+step:89 batch-th:3 Loss value:323.76663
+step:89 batch-th:4 Loss value:256.13953
+step:89 batch-th:5 Loss value:237.26648
+step:89 batch-th:6 Loss value:253.21146
+step:89 batch-th:7 Loss value:222.3389
+step:89 batch-th:8 Loss value:244.95215
+step:89 batch-th:9 Loss value:269.30896
+2019-04-03 18:33:16
+89-th iteration, Time cost: 2
+
+step:90 batch-th:0 Loss value:196.28941
+step:90 batch-th:1 Loss value:227.19934
+step:90 batch-th:2 Loss value:219.63412
+step:90 batch-th:3 Loss value:322.88083
+step:90 batch-th:4 Loss value:255.03972
+step:90 batch-th:5 Loss value:236.55511
+step:90 batch-th:6 Loss value:252.57875
+step:90 batch-th:7 Loss value:221.63853
+step:90 batch-th:8 Loss value:244.10791
+step:90 batch-th:9 Loss value:268.69293
+2019-04-03 18:33:18
+90-th iteration, Time cost: 2
+
+step:91 batch-th:0 Loss value:195.70932
+step:91 batch-th:1 Loss value:226.49142
+step:91 batch-th:2 Loss value:219.02415
+step:91 batch-th:3 Loss value:322.03052
+step:91 batch-th:4 Loss value:253.96227
+step:91 batch-th:5 Loss value:235.84268
+step:91 batch-th:6 Loss value:251.95045
+step:91 batch-th:7 Loss value:220.97589
+step:91 batch-th:8 Loss value:243.31442
+step:91 batch-th:9 Loss value:268.05493
+2019-04-03 18:33:21
+91-th iteration, Time cost: 2
+
+step:92 batch-th:0 Loss value:195.13957
+step:92 batch-th:1 Loss value:225.78899
+step:92 batch-th:2 Loss value:218.42531
+step:92 batch-th:3 Loss value:321.2134
+step:92 batch-th:4 Loss value:252.9026
+step:92 batch-th:5 Loss value:235.14078
+step:92 batch-th:6 Loss value:251.33289
+step:92 batch-th:7 Loss value:220.34117
+step:92 batch-th:8 Loss value:242.56508
+step:92 batch-th:9 Loss value:267.41272
+2019-04-03 18:33:23
+92-th iteration, Time cost: 2
+
+step:93 batch-th:0 Loss value:194.57632
+step:93 batch-th:1 Loss value:225.09422
+step:93 batch-th:2 Loss value:217.84021
+step:93 batch-th:3 Loss value:320.41992
+step:93 batch-th:4 Loss value:251.85136
+step:93 batch-th:5 Loss value:234.45839
+step:93 batch-th:6 Loss value:250.73376
+step:93 batch-th:7 Loss value:219.73584
+step:93 batch-th:8 Loss value:241.85277
+step:93 batch-th:9 Loss value:266.75827
+2019-04-03 18:33:25
+93-th iteration, Time cost: 2
+
+step:94 batch-th:0 Loss value:194.01183
+step:94 batch-th:1 Loss value:224.4065
+step:94 batch-th:2 Loss value:217.2675
+step:94 batch-th:3 Loss value:319.64136
+step:94 batch-th:4 Loss value:250.77995
+step:94 batch-th:5 Loss value:233.78825
+step:94 batch-th:6 Loss value:250.146
+step:94 batch-th:7 Loss value:219.1699
+step:94 batch-th:8 Loss value:241.18124
+step:94 batch-th:9 Loss value:266.07016
+2019-04-03 18:33:27
+94-th iteration, Time cost: 2
+
+step:95 batch-th:0 Loss value:193.43053
+step:95 batch-th:1 Loss value:223.6994
+step:95 batch-th:2 Loss value:216.6898
+step:95 batch-th:3 Loss value:318.8762
+step:95 batch-th:4 Loss value:249.62279
+step:95 batch-th:5 Loss value:233.1298
+step:95 batch-th:6 Loss value:249.56413
+step:95 batch-th:7 Loss value:218.66895
+step:95 batch-th:8 Loss value:240.57295
+step:95 batch-th:9 Loss value:265.33325
+2019-04-03 18:33:29
+95-th iteration, Time cost: 2
+
+step:96 batch-th:0 Loss value:192.81665
+step:96 batch-th:1 Loss value:222.94771
+step:96 batch-th:2 Loss value:216.0954
+step:96 batch-th:3 Loss value:318.1074
+step:96 batch-th:4 Loss value:248.41914
+step:96 batch-th:5 Loss value:232.46156
+step:96 batch-th:6 Loss value:248.95123
+step:96 batch-th:7 Loss value:218.24294
+step:96 batch-th:8 Loss value:240.03616
+step:96 batch-th:9 Loss value:264.5442
+2019-04-03 18:33:32
+96-th iteration, Time cost: 2
+
+step:97 batch-th:0 Loss value:192.17224
+step:97 batch-th:1 Loss value:222.15706
+step:97 batch-th:2 Loss value:215.48409
+step:97 batch-th:3 Loss value:317.33466
+step:97 batch-th:4 Loss value:247.35036
+step:97 batch-th:5 Loss value:231.75551
+step:97 batch-th:6 Loss value:248.28874
+step:97 batch-th:7 Loss value:217.77612
+step:97 batch-th:8 Loss value:239.48811
+step:97 batch-th:9 Loss value:263.82318
+2019-04-03 18:33:34
+97-th iteration, Time cost: 2
+
+step:98 batch-th:0 Loss value:191.52925
+step:98 batch-th:1 Loss value:221.37292
+step:98 batch-th:2 Loss value:214.88574
+step:98 batch-th:3 Loss value:316.60577
+step:98 batch-th:4 Loss value:246.3459
+step:98 batch-th:5 Loss value:231.04147
+step:98 batch-th:6 Loss value:247.65222
+step:98 batch-th:7 Loss value:217.17729
+step:98 batch-th:8 Loss value:238.90147
+step:98 batch-th:9 Loss value:263.26056
+2019-04-03 18:33:36
+98-th iteration, Time cost: 2
+
+step:99 batch-th:0 Loss value:190.86044
+step:99 batch-th:1 Loss value:220.58945
+step:99 batch-th:2 Loss value:214.28964
+step:99 batch-th:3 Loss value:315.87515
+step:99 batch-th:4 Loss value:245.31241
+step:99 batch-th:5 Loss value:230.3567
+step:99 batch-th:6 Loss value:247.04944
+step:99 batch-th:7 Loss value:216.60689
+step:99 batch-th:8 Loss value:238.30464
+step:99 batch-th:9 Loss value:262.6711
+2019-04-03 18:33:38
+99-th iteration, Time cost: 2
+
