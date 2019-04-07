@@ -1,6 +1,8 @@
-# 这是什么程序？ What is this ?
+<center><img src="img/TAL.jpg"></center>
 
-![](img/what_is_this.png)
+# <center>  这是什么程序？What is this ? </center>
+
+<center><img src="img/what_is_this.png"></center>
 
 首先给一张俊美靓丽的人脸照，将这张照片作为输入用AI口红小工具美(P)化(S)打(修)扮(图)一番
 你就可以让照片中人脸得到两种不同口红，赤红鲜艳的釉面口红和皎明光泽的亮面口红
@@ -25,7 +27,7 @@ Python3.6
 
 
 # 2 *Run Enviroment*
-## 2.1 *Enligsh Version*
+## 2.1 *Python Version*
 Python3.6
 
 ## 2.2 *Python  Requirements*
@@ -44,5 +46,5 @@ different lisp will be created in test_out directory.
 ![](img/how_to_run.png)
 
 
-
-
+*<center> 想了解更多AI技术，微信敬请关注“学而思网校AI开放平台” </center>*
+<center><img src="img/xueersi_open_ai.jpg"></center>
