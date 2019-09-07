@@ -2,7 +2,6 @@
 
 from ai_makeup_predict import AIMakeupPredict
 import os
-from PIL import Image
 import numpy as np
 import setting
 from dlib_makeup import Makeup

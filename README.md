@@ -1,4 +1,4 @@
-<center><img src="img/TAL.jpg"></center>
+<!-- <center><img src="img/TAL.jpg"></center> !-->
 
 # <center>  这是什么程序？What is this ? </center>
 
@@ -46,5 +46,6 @@ different lisp will be created in test_out directory.
 ![](img/how_to_run.png)
 
 
+<!-- 
 *<center> 想了解更多AI技术，微信敬请关注“学而思网校AI开放平台” </center>*
-<center><img src="img/xueersi_open_ai.jpg"></center>
+<center><img src="img/xueersi_open_ai.jpg"></center> !-->
